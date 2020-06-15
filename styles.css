@@ -1,0 +1,27 @@
+.myheader {
+  text-align: center;
+  background-color: white;
+}
+
+.profilepic{
+    border-radius: 50%;
+}
+
+.navchange{
+  height: 60px;
+  position: fixed;
+}
+
+li{
+  font-size: 17px;
+}
+
+.carousel-item {
+    height: 100%;
+    text-align: center;
+    width: 100%;
+}
+
+.portfolio{
+  text-align: center;
+}
